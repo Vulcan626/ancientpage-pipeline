@@ -49,6 +49,7 @@ python edge_crop_batch.py --i demo/data --o demo/outputs --workers 4 --mode all
 --workers: 并发线程数，默认 4
 --window_lines: 每个线程日志窗口行数，默认 8
 --mode: 输出模式，all=完整生成物; result=仅裁剪结果，默认 all
+--resume: 开启断点恢复，完整输出则跳过，残缺则清理后重做
 ```
 
 ## 输出结构示例

@@ -14,7 +14,7 @@ ANCIENTPAGE-PIPELINE 是一个用于中华古籍图像页面裁剪与边缘检�
 ## 安装步骤
 1. 克隆本项目：
    ```bash
-   git clone https://github.com/yourname/ancientpage-pipeline.git
+   git clone https://github.com/Vulcan626/ancientpage-pipeline.git
    cd ancientpage-pipeline
    ```
 2. 安装依赖（推荐使用conda环境以及 Python 3.9及以上）：
